@@ -8,4 +8,6 @@ void main(){
   print(numbers.every((element) => element > 3)); // check satu satu jika ada satu saja tidak benar maka false (harus benar semua)
 
   print(numbers.contains(3)); // mengecek apakah ada number 3 atau tidak, kalau ada return true
+
+  
 }
